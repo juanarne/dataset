@@ -1,5 +1,5 @@
-﻿trap speed,ET,launch speed,horsepower,track moisture,tire temperature,tire pressure,track temperature,,,,,,
-50.0,0.1,40,600,1,110,25,52,,,,,,5
+
+50.0,0.1,40,600,1,110,25,52,,,,,,
 55.0,0.2,40,600,1,110,25,52,,,,,,
 60.0,0.3,40,600,1,110,25,52,,,,,,
 65.0,0.4,40,600,1,110,25,52,,,,,,
